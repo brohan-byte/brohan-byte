@@ -1,5 +1,7 @@
-## Hello there, I'm Rohan 👋
 
+![1743528406206](https://github.com/user-attachments/assets/e8baeeb5-c6b0-4bf3-ba7e-1f66574ec146)
+
+## Hello there, I'm Rohan 👋
 I'm a Computer Science student with strong interests in **computer architecture**, **computer graphics**, and **quantum computing**.  
 I enjoy working close to the hardware, understanding how systems execute programs, and building efficient computational pipelines.
 
