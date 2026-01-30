@@ -1,5 +1,7 @@
 
-![1743528406206](https://github.com/user-attachments/assets/e8baeeb5-c6b0-4bf3-ba7e-1f66574ec146)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e8baeeb5-c6b0-4bf3-ba7e-1f66574ec146" width="400">
+</p>
 
 ## Hello there, I'm Rohan 👋
 I'm a Computer Science student with strong interests in **computer architecture**, **computer graphics**, and **quantum computing**.  
