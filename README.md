@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hello there, I'm Rohan 👋
 
-<!--
-**brohan-byte/brohan-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student with strong interests in **computer architecture**, **computer graphics**, and **quantum computing**.  
+I enjoy working close to the hardware, understanding how systems execute programs, and building efficient computational pipelines.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- 🖥 **Computer Architecture** — CPU execution models, low-level performance, emulation
+- 🎨 **Computer Graphics** — rendering pipelines, ray tracing, geometric computation
+- ⚛️ **Quantum Computing** — quantum algorithms, simulation, and error modeling
+
+## Featured Projects
+
+- 🔹 **CHIP-8 Emulator**  
+  A virtual machine implementation focused on instruction decoding, memory layout, and fetch–decode–execute cycles.
+
+- 🔹 **Real-Time Weather Prediction Pipeline**  
+  Streaming system using **Kafka** and **Spark ML** to process data efficiently and perform real-time inference.
+
+- 🔹 **News Trend Analysis**  
+  Automated news scraping with **Selenium**, NLP analysis using **NLTK**, and trend visualization with **Matplotlib**.
+
+## Currently Learning
+- Rendering pipelines
+- Quantum algorithms and simulation frameworks
+
+
+## Contact
+E-mail: kondlapudisairohanreddy@gmail.com
+
+
