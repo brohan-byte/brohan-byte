@@ -15,14 +15,11 @@ I enjoy working close to the hardware, understanding how systems execute program
 
 ## Featured Projects
 
-- 🔹 **CHIP-8 Emulator**  
-  A virtual machine implementation focused on instruction decoding, memory layout, and fetch–decode–execute cycles.
+- 🔹 **Patient Management System** 
 
 - 🔹 **Real-Time Weather Prediction Pipeline**  
-  Streaming system using **Kafka** and **Spark ML** to process data efficiently and perform real-time inference.
 
 - 🔹 **News Trend Analysis**  
-  Automated news scraping with **Selenium**, NLP analysis using **NLTK**, and trend visualization with **Matplotlib**.
 
 ## Currently Learning
 - Rendering pipelines
